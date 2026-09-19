@@ -1,6 +1,6 @@
-# Relay — AI-Powered Customer Support Platform
+# Echo-AI Powered SAAS Platform
 
-Relay is a multi-tenant SaaS platform that lets businesses embed an AI support widget on any website. It handles customer conversations autonomously using a RAG-powered AI agent, escalates to human operators when needed, and supports voice calls via Vapi — all manageable from a real-time operator dashboard.
+Echo-AI is a multi-tenant SaaS platform that lets businesses embed an AI support widget on any website. It handles customer conversations autonomously using a RAG-powered AI agent, escalates to human operators when needed, and supports voice calls via Vapi — all manageable from a real-time operator dashboard.
 
 ---
 
